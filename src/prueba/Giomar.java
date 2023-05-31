@@ -9,9 +9,17 @@ public class Giomar {
 		
 		//Jacky
 
+Giomaru
 		//veamos
 		
 		//GG NUEVA,ENTE
+
+		//Roger Fabiano	
+		// Roy
+
+		//Gian
+
+ master
 	}
 
 }
