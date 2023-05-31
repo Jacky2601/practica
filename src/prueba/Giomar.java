@@ -6,8 +6,11 @@ public class Giomar {
 		// LO LOGRÉ
 		
 		//auí tambien trabajé atte Jacky
+		
+		//Jacky
 
 		//Roger Fabiano	
+		//Gian
 		
 	}
 
