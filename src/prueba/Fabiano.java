@@ -2,6 +2,6 @@ package prueba;
 
 public class Fabiano {
 	
-	//Fabiano Alarico Arango
+	//Roger Fabiano Alarico Arango
 	
 }
