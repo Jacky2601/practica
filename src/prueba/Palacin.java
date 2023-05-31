@@ -6,4 +6,8 @@ public class Palacin {
 	//version 3
 	//ejemplo
 	
+	//supongamos que programé algo ...
+	
+	//MANUEL SAPBEEEEEE
+	
 }
