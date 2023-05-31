@@ -2,6 +2,6 @@ package prueba;
 
 public class Nombres {
 	
-	//Jacky
+	//Jacky Garay
 
 }
